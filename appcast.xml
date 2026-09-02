@@ -4,17 +4,26 @@
         <title>Harmony</title>
         <item>
             <title>1.1</title>
-            <pubDate>Wed, 02 Sep 2026 21:22:28 +0300</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <pubDate>Thu, 03 Sep 2026 00:27:31 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Update mechanism verification</h2>
-<p>
-  Functionally identical to 1.1 (2). This build exists to confirm end to end that
-  installed copies are offered an update, verify its signature, and install it.
-</p>
+            <description><![CDATA[<h2>A new icon, and a better update experience</h2>
+<ul>
+  <li><b>New app icon.</b> The Harmony mark now fills its rounded square properly,
+      instead of sitting in a smaller tile with grey edges around it.</li>
+  <li><b>Updates are checked every time you open Harmony</b>, and once an hour
+      while it stays open. Previously a check was skipped if you had reopened the
+      app within the hour.</li>
+  <li><b>Update notices now name the build</b>, not just the version, so it is
+      clear exactly which copy you are moving to.</li>
+  <li><b>Harmony confirms when an update has finished</b>, the first time it opens
+      on the new version.</li>
+  <li>Buttons in update dialogs now use Harmony's own colour.</li>
+</ul>
+<p>Nothing about your projects, tasks, payments or attachments changes in this release.</p>
 ]]></description>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-3/Harmony-1.1-3.dmg" length="3918128" type="application/octet-stream" sparkle:edSignature="jFoBDbeYyDfDTFqINRH8nN4xkqYIKLlgOH5r5V793+ZShp/MnNXpjQQkEY9WjKS1fFzBBKw2dxDMp9ObjD4cAA=="/>
+            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-4/Harmony-1.1-4.dmg" length="4280990" type="application/octet-stream" sparkle:edSignature="L/5KEodphb3Gl8NUnIryiEY5cj+cCAV+0a0rt9rk754GIOdipLX634E7jlTNJT222lK9q8uMkMpJ3G4AVrf9AA=="/>
         </item>
     </channel>
 </rss>
