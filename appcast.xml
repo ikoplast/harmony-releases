@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Renovation Projects macOS</title>
+        <title>Harmony</title>
         <item>
             <title>1.1</title>
             <pubDate>Wed, 02 Sep 2026 21:22:28 +0300</pubDate>
@@ -15,40 +15,6 @@
 </p>
 ]]></description>
             <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-3/Harmony-1.1-3.dmg" length="3918128" type="application/octet-stream" sparkle:edSignature="jFoBDbeYyDfDTFqINRH8nN4xkqYIKLlgOH5r5V793+ZShp/MnNXpjQQkEY9WjKS1fFzBBKw2dxDMp9ObjD4cAA=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Wed, 02 Sep 2026 20:35:30 +0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Harmony for Mac now updates itself</h2>
-<p>
-  Harmony no longer ships through TestFlight. This is the first build distributed
-  directly as a disk image, signed and notarised by Apple.
-</p>
-<ul>
-  <li><b>Automatic updates.</b> Harmony checks for a new version when it starts and
-      once an hour after that. When one is available it asks before downloading or
-      installing anything.</li>
-  <li><b>Check for Updates…</b> is in the Harmony menu, next to About.</li>
-  <li>The app is now called <b>Harmony</b> in your Applications folder and Dock.</li>
-</ul>
-<p>
-  <b>Installing:</b> drag Harmony into Applications. If you still have the old
-  TestFlight copy ("Renovation Projects macOS"), delete it first — your projects,
-  tasks, payments and attachments all live in iCloud and will sync straight back.
-</p>
-]]></description>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-2/Harmony-1.1-2.dmg" length="3918099" type="application/octet-stream" sparkle:edSignature="Cu9agm4dvdJ16DGys0+5EfcudqsDkHObZOHdzue5FD13WeB4+xOusod7PZIYZs+Wls0qDDAp2AwwFQQdd8IrCQ=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Wed, 02 Sep 2026 19:34:21 +0300</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-1/Harmony-1.1-1.dmg" length="3916065" type="application/octet-stream" sparkle:edSignature="vWMUEPh2qS/vHdfmTpJoKfnzCDB3hcJppy15F2zyKO+BRCqDrbQQKR/sggoBFX6mUuDHr1i4JoMk2p5T45VWAg=="/>
         </item>
     </channel>
 </rss>
