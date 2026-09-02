@@ -4,6 +4,20 @@
         <title>Renovation Projects macOS</title>
         <item>
             <title>1.1</title>
+            <pubDate>Wed, 02 Sep 2026 21:22:28 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Update mechanism verification</h2>
+<p>
+  Functionally identical to 1.1 (2). This build exists to confirm end to end that
+  installed copies are offered an update, verify its signature, and install it.
+</p>
+]]></description>
+            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-3/Harmony-1.1-3.dmg" length="3918128" type="application/octet-stream" sparkle:edSignature="jFoBDbeYyDfDTFqINRH8nN4xkqYIKLlgOH5r5V793+ZShp/MnNXpjQQkEY9WjKS1fFzBBKw2dxDMp9ObjD4cAA=="/>
+        </item>
+        <item>
+            <title>1.1</title>
             <pubDate>Wed, 02 Sep 2026 20:35:30 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
