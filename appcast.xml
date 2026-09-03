@@ -4,26 +4,31 @@
         <title>Harmony</title>
         <item>
             <title>1.1</title>
-            <pubDate>Thu, 03 Sep 2026 00:27:31 +0300</pubDate>
-            <sparkle:version>4</sparkle:version>
+            <pubDate>Thu, 03 Sep 2026 08:38:54 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>A new icon, and a better update experience</h2>
+            <description><![CDATA[<h2>Search everything in a project</h2>
 <ul>
-  <li><b>New app icon.</b> The Harmony mark now fills its rounded square properly,
-      instead of sitting in a smaller tile with grey edges around it.</li>
-  <li><b>Updates are checked every time you open Harmony</b>, and once an hour
-      while it stays open. Previously a check was skipped if you had reopened the
-      app within the hour.</li>
-  <li><b>Update notices now name the build</b>, not just the version, so it is
-      clear exactly which copy you are moving to.</li>
-  <li><b>Harmony confirms when an update has finished</b>, the first time it opens
-      on the new version.</li>
-  <li>Buttons in update dialogs now use Harmony's own colour.</li>
+  <li><b>A search box in the top bar</b>, next to Sync. Type and the task list
+      filters as you go.</li>
+  <li><b>It looks everywhere in the selected project</b> — task names, people,
+      status, dates, costs, notes, links, payment descriptions and amounts, and
+      attachment file names.</li>
+  <li><b>Capital letters and accents do not matter.</b> Typing <i>βαγγελ</i>
+      finds <i>Βαγγέλης</i>.</li>
+  <li><b>Matches are highlighted</b> in Harmony's gold, in both the task list and
+      the task details on the right. When a match is somewhere the list cannot
+      show — inside a payment note, say — the task gains a short line telling you
+      where it was found.</li>
+  <li>Press <b>Escape</b> or click the ✕ to clear the search.</li>
 </ul>
-<p>Nothing about your projects, tasks, payments or attachments changes in this release.</p>
+<p>
+  Also in this build: update dialogs now show the build number alongside the
+  version, and buttons in them use Harmony's own colour.
+</p>
 ]]></description>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-4/Harmony-1.1-4.dmg" length="4280990" type="application/octet-stream" sparkle:edSignature="L/5KEodphb3Gl8NUnIryiEY5cj+cCAV+0a0rt9rk754GIOdipLX634E7jlTNJT222lK9q8uMkMpJ3G4AVrf9AA=="/>
+            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-5/Harmony-1.1-5.dmg" length="4329271" type="application/octet-stream" sparkle:edSignature="6Uch0jQ+1dwm7pizeRJczwEutlHxZSin7xt5DP7BiWXIMJ7hUo2mOvn+B3kyjSVWXaBJR0v+yAaa337EMFOQCg=="/>
         </item>
     </channel>
 </rss>
