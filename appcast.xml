@@ -4,31 +4,28 @@
         <title>Harmony</title>
         <item>
             <title>1.1</title>
-            <pubDate>Thu, 03 Sep 2026 08:38:54 +0300</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <pubDate>Thu, 03 Sep 2026 22:10:00 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Search everything in a project</h2>
+            <description><![CDATA[<h2>Layout fixes</h2>
 <ul>
-  <li><b>A search box in the top bar</b>, next to Sync. Type and the task list
-      filters as you go.</li>
-  <li><b>It looks everywhere in the selected project</b> — task names, people,
-      status, dates, costs, notes, links, payment descriptions and amounts, and
-      attachment file names.</li>
-  <li><b>Capital letters and accents do not matter.</b> Typing <i>βαγγελ</i>
-      finds <i>Βαγγέλης</i>.</li>
-  <li><b>Matches are highlighted</b> in Harmony's gold, in both the task list and
-      the task details on the right. When a match is somewhere the list cannot
-      show — inside a payment note, say — the task gains a short line telling you
-      where it was found.</li>
-  <li>Press <b>Escape</b> or click the ✕ to clear the search.</li>
+  <li><b>Fixed the panes overlapping in a narrow window.</b> If the window was
+      smaller than the three columns needed, the task details drew on top of the
+      project pane and text ran off the edge. The window now has a sensible
+      minimum size and the layout adapts instead of breaking.</li>
+  <li><b>Cost, Paid and Pending now sit next to their amounts</b> in the task
+      details, instead of being stretched apart across the pane.</li>
+  <li><b>Harmony opens at a size that suits your screen.</b> On a larger display
+      it opens wider, and on a laptop it opens wide enough that nothing has to
+      stack.</li>
 </ul>
 <p>
-  Also in this build: update dialogs now show the build number alongside the
-  version, and buttons in them use Harmony's own colour.
+  If your window is currently very small, resize it once after updating — macOS
+  remembers the size you last used.
 </p>
 ]]></description>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-5/Harmony-1.1-5.dmg" length="4329271" type="application/octet-stream" sparkle:edSignature="6Uch0jQ+1dwm7pizeRJczwEutlHxZSin7xt5DP7BiWXIMJ7hUo2mOvn+B3kyjSVWXaBJR0v+yAaa337EMFOQCg=="/>
+            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-6/Harmony-1.1-6.dmg" length="4328781" type="application/octet-stream" sparkle:edSignature="AFpg2xyocd0PZ2bUjv7qbf+V+ItJkT4SPxl6atchhLzQes1JkKOGOlQO4ixeqaoYl7R7oKJAA18noOvZKUf9DQ=="/>
         </item>
     </channel>
 </rss>
