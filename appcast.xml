@@ -4,28 +4,23 @@
         <title>Harmony</title>
         <item>
             <title>1.1</title>
-            <pubDate>Thu, 03 Sep 2026 22:10:00 +0300</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <pubDate>Thu, 03 Sep 2026 22:48:35 +0300</pubDate>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Layout fixes</h2>
-<ul>
-  <li><b>Fixed the panes overlapping in a narrow window.</b> If the window was
-      smaller than the three columns needed, the task details drew on top of the
-      project pane and text ran off the edge. The window now has a sensible
-      minimum size and the layout adapts instead of breaking.</li>
-  <li><b>Cost, Paid and Pending now sit next to their amounts</b> in the task
-      details, instead of being stretched apart across the pane.</li>
-  <li><b>Harmony opens at a size that suits your screen.</b> On a larger display
-      it opens wider, and on a laptop it opens wide enough that nothing has to
-      stack.</li>
-</ul>
+            <description><![CDATA[<h2>Harmony remembers your window</h2>
 <p>
-  If your window is currently very small, resize it once after updating — macOS
-  remembers the size you last used.
+  Harmony now reopens at the size and position you last left it. Until now it
+  reset to a default size on every launch, so any window you had sized to suit
+  your screen was thrown away when you quit.
+</p>
+<p>
+  The first launch after this update still opens at the default size — there is
+  nothing saved yet. Size the window how you like it once, and from then on it
+  will stay that way.
 </p>
 ]]></description>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-6/Harmony-1.1-6.dmg" length="4328781" type="application/octet-stream" sparkle:edSignature="AFpg2xyocd0PZ2bUjv7qbf+V+ItJkT4SPxl6atchhLzQes1JkKOGOlQO4ixeqaoYl7R7oKJAA18noOvZKUf9DQ=="/>
+            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-7/Harmony-1.1-7.dmg" length="4328966" type="application/octet-stream" sparkle:edSignature="1kqsveedLqtaW6Tx9Akw8JhhI8prqre3mFBd+BnLTRPAhWBKcVsasHYdBvYOmLjkwDLNWvMeOg8t2aaY7zQmAw=="/>
         </item>
     </channel>
 </rss>
