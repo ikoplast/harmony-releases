@@ -4,23 +4,11 @@
         <title>Harmony</title>
         <item>
             <title>1.1</title>
-            <pubDate>Thu, 03 Sep 2026 22:48:35 +0300</pubDate>
-            <sparkle:version>7</sparkle:version>
+            <pubDate>Sat, 05 Sep 2026 11:28:05 +0300</pubDate>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Harmony remembers your window</h2>
-<p>
-  Harmony now reopens at the size and position you last left it. Until now it
-  reset to a default size on every launch, so any window you had sized to suit
-  your screen was thrown away when you quit.
-</p>
-<p>
-  The first launch after this update still opens at the default size — there is
-  nothing saved yet. Size the window how you like it once, and from then on it
-  will stay that way.
-</p>
-]]></description>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-7/Harmony-1.1-7.dmg" length="4328966" type="application/octet-stream" sparkle:edSignature="1kqsveedLqtaW6Tx9Akw8JhhI8prqre3mFBd+BnLTRPAhWBKcVsasHYdBvYOmLjkwDLNWvMeOg8t2aaY7zQmAw=="/>
+            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.1-8/Harmony-1.1-8.dmg" length="4596645" type="application/octet-stream" sparkle:edSignature="DzpjBZpNwyqqAybpp7BLnWnLM2CpEnS1ixqwrhTsoIQCkEJbL5c3HmlvmlJ4n8qABFz02qPdPVHWGzgBFQBDAQ=="/>
         </item>
     </channel>
 </rss>
