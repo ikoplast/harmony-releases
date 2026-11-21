@@ -4,11 +4,11 @@
         <title>Harmony</title>
         <item>
             <title>1.2</title>
-            <pubDate>Sat, 21 Nov 2026 18:40:34 +0200</pubDate>
-            <sparkle:version>84</sparkle:version>
+            <pubDate>Sat, 21 Nov 2026 18:59:13 +0200</pubDate>
+            <sparkle:version>85</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.2-84/Harmony-1.2-84.dmg" length="7478906" type="application/octet-stream" sparkle:edSignature="A50VSY+m4hY+rvftf/nj1UD/RDtyNhbYpIrhmdzR7VTM8HHbQgjedvVJCCZg7wrQVu3dgsjV8F4NqQRgydSUBw=="/>
+            <enclosure url="https://github.com/ikoplast/harmony-releases/releases/download/v1.2-85/Harmony-1.2-85.dmg" length="7480750" type="application/octet-stream" sparkle:edSignature="nVThmu0F70cAbbj3YF2hB5S5wvRnQN+hK1pxceMYioNfNm8MBXFcfXuQVaYLGENN9DwPJgYYr5C2yCSEfSK0Dw=="/>
         </item>
     </channel>
 </rss>
